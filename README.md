@@ -1,2 +1,2 @@
 # class_demo
-class demo repository
+class demo_1 repository for stats 21
